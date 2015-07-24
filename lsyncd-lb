@@ -10,7 +10,7 @@ sync {
     source="/var/cache/nginx/cache",
     target="nginx@wordpressサーバ1のIPアドレス:/var/cache/nginx/cache/",
     rsync = {
-        rsh = "/usr/bin/ssh -i /var/cache/Nginx/.ssh/emptypass -o StrictHostKeyChecking=no"
+        rsh = "/usr/bin/ssh -i /var/cache/nginx/.ssh/emptypass -o StrictHostKeyChecking=no"
     },
     delete = "running",
     init  = false
