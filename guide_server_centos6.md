@@ -25,12 +25,9 @@ http://www.ibm.com/cloud-computing/jp/ja/softlayer_flow.html
 SoftLayerの利用は、管理ポータルから操作します。
 
 - https://control.softlayer.com/ にアクセスして、ログインしてください。
-![ログイン画面](https://raw.githubusercontent.com/kkitase/handson/master/images/%202015-12-12%208.56.25.png)
-
+![ログイン画面](https://raw.githubusercontent.com/kkitase/handson/master/images/%202015-12-12%208.56.25.png)  
 - 最初にログオンされた方は、パスワードの変更を促されますので、変更してください。
-- 
 - 同じネットワークからのログイン要求で、パスワードを連続3回間違えると、そのネットワークからのログイン要求を30分間遮断しますので、パスワードは慎重にいれてください。
-- 
 - ブラウザは、Chrome、Firefoxをお勧めします。Internet Exploreは表示されない場合があります
 
 
