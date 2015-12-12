@@ -22,10 +22,15 @@ http://www.ibm.com/cloud-computing/jp/ja/softlayer_flow.html
 
 管理ポータルへのログイン
 -------
-SoftLayerの利用は、管理ポータルから操作します。まず、https://control.softlayer.com/ にアクセスして、ログインしてください。
+SoftLayerの利用は、管理ポータルから操作します。
+
+- https://control.softlayer.com/ にアクセスして、ログインしてください。
+![ログイン画面](handson/images/ 2015-12-12 8.56.25.png)
 
 - 最初にログオンされた方は、パスワードの変更を促されますので、変更してください。
+- 
 - 同じネットワークからのログイン要求で、パスワードを連続3回間違えると、そのネットワークからのログイン要求を30分間遮断しますので、パスワードは慎重にいれてください。
+- 
 - ブラウザは、Chrome、Firefoxをお勧めします。Internet Exploreは表示されない場合があります
 
 
