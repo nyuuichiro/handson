@@ -41,16 +41,19 @@ SoftLayerコマンドラインクライアントとは、SoftLayerをコマン�
 ### SoftLayerコマンドラインクライアントのインストール
 Pythonのeasy_installコマンドでCLIをインストールしてください。ここでは、自分の作成したサーバにSoftLayerコマンドラインクライアントをインストールします。
 
-`` Red Hat系
+``` Red Hat系
 $ yum install -y python-setuptools
 $ easy_install softlayer
-``
-`` Debian 系
+```
+
+`` `Debian 系
 $ sudo apt-get install python-setuptools
 $ sudo easy_install softlayer
-``
+```
+
 次のようにコマンドの解説を確認してください。
-``
+
+```
 $ slcli
 usage: slcli  [...]
        slcli help 
@@ -91,7 +94,8 @@ See 'sl help ' for more information on a specific module.
 
 To use most commands your SoftLayer username and api_key need to be configured.
 The easiest way to do that is to use: 'sl config setup'
-``
+```
+
 なお、WindowsでもCLIは使用可能です。次のドキュメントをご確認ください。
 https://www.ibm.com/developerworks/community/files/form/anonymous/api/library/b1409dc8-fbc4-4d02-b799-b70334c67b92/document/78fa4030-97ab-4c70-8b7b-d15e90b469b4/media/SL_CLI%E5%B0%8E%E5%85%A5%E6%96%B9%E6%B3%95_20140213.pdf
 
