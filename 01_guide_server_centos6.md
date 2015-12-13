@@ -46,7 +46,7 @@ $ yum install -y python-setuptools
 $ easy_install softlayer
 ```
 
-`` `Debian 系
+``` Debian 系
 $ sudo apt-get install python-setuptools
 $ sudo easy_install softlayer
 ```
