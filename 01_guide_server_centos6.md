@@ -41,12 +41,16 @@ SoftLayerコマンドラインクライアントとは、SoftLayerをコマン�
 ### SoftLayerコマンドラインクライアントのインストール
 Pythonのeasy_installコマンドでCLIをインストールしてください。ここでは、自分の作成したサーバにSoftLayerコマンドラインクライアントをインストールします。
 
-``` Red Hat系
+Red Hat系
+
+```
 $ yum install -y python-setuptools
 $ easy_install softlayer
 ```
 
-``` Debian 系
+Debian 系
+
+```
 $ sudo apt-get install python-setuptools
 $ sudo easy_install softlayer
 ```
