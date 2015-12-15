@@ -103,10 +103,9 @@ The easiest way to do that is to use: 'sl config setup'
 なお、WindowsでもCLIは使用可能です。次のドキュメントをご確認ください。
 https://www.ibm.com/developerworks/community/files/form/anonymous/api/library/b1409dc8-fbc4-4d02-b799-b70334c67b92/document/78fa4030-97ab-4c70-8b7b-d15e90b469b4/media/SL_CLI%E5%B0%8E%E5%85%A5%E6%96%B9%E6%B3%95_20140213.pdf
 
-
 プロジェクト・タイトル
 ======================
-ここにプロジェクトの概要を書きます。
+ここにプロジェクトの概要を書きます
 行末にスペースを2つ入れると  
 改行されます。
 
